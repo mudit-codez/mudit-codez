@@ -47,6 +47,12 @@ I believe in learning by building small projects, exploring real codebases, and 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![API](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mudit_jain-2309?theme=dark&font=JetBrains%20Mono&ext=contest)
+
+---
+
 ## 🚀 Featured Projects
 
 ## 🔐 PassGuard CLI
@@ -65,12 +71,6 @@ PassGuard CLI is a beginner-friendly Python command-line project that checks pas
 - Delete saved entries
 
 > ⚠️ This project is for learning only. Do not store real passwords.
-
----
-
-## 🧩 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mudit_jain-2309?theme=dark&font=JetBrains%20Mono&ext=contest)
 
 ---
 
